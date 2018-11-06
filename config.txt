@@ -1,6 +1,6 @@
-token=NDkwOTEyMzgwMjkzNzQyNjA1.DsOjAQ.pn0PhmvQkyreAYc2VpJBA7XjhR0
+token=NDkwOTEyMzgwMjkzNzQyNjA1.DsOnnA.Lf-Zxqah_1yRwvi0ra9_ZxCd4Xk
 owner=379653208529698818
-prefix=1
-game=-The.LEGEND.MUSIC.1play
+prefix=@
+game=-.MUSIC.@play
 stayinchannel=true
 songinstatus=true
