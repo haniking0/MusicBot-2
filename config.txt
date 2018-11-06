@@ -1,6 +1,6 @@
-token=NTA5NDY5NDg5NjE2NjUwMjQz.DsOQpA.rJAta0lAoycHWIOIGkgSwxHYApA
+token=NTA5MTM2MTAzMDk0MDkxNzg4.DsOcVQ.UB-bQsreUzRDLS4NQQ4Ztfugbv0
 owner=379653208529698818
-prefix=!
-game=-SILVERMUSIC.!play
+prefix=1
+game=-ARMYMUSIC.!play
 stayinchannel=true
 songinstatus=true
