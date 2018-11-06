@@ -1,6 +1,6 @@
-token=NTA5MTM2MTAzMDk0MDkxNzg4.DsJb8Q.Ja5YNogZjJvGmFVQEkWLreJl4C4Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
+token=yTuvM0IPUB-QKG5AY-BqY2suIW6dMdKS.DsJb8Q.Ja5YNogZjJvGmFVQEkWLreJl4C4Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
 owner=379653208529698818
 prefix=!
-game=-BOSSMUSIC.!play
+game=-SILVERMUSIC.!play
 stayinchannel=true
 songinstatus=true
