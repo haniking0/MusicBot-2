@@ -1,6 +1,6 @@
-token=NTA5MTM2MTAzMDk0MDkxNzg4.DsOcVQ.UB-bQsreUzRDLS4NQQ4Ztfugbv0
+token=NDkwOTEyMzgwMjkzNzQyNjA1.DsOjAQ.pn0PhmvQkyreAYc2VpJBA7XjhR0
 owner=379653208529698818
 prefix=1
-game=-ARMYMUSIC.!play
+game=-The.LEGEND.MUSIC.1play
 stayinchannel=true
 songinstatus=true
