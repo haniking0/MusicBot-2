@@ -1,6 +1,6 @@
 token=NTA5ODE4MTE3MzE3MzI4ODk2.DsTVMg.DH2cA-b61eecOEZ4lE10TlVl_A0
 owner=379653208529698818
-prefix=$
+prefix=!
 game=WATCHING YOU
 stayinchannel=true
 songinstatus=true
